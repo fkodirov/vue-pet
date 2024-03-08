@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "b178",
+      "login": "12321",
+      "email": "123",
+      "phone": "123",
+      "password": "213",
+      "username": "123",
+      "birthdate": "2024-01-20"
+    },
+    {
+      "id": "e473",
+      "login": "12321123",
+      "email": "123",
+      "phone": "123",
+      "password": "213",
+      "username": "123",
+      "birthdate": "2024-01-20"
+    },
+    {
+      "id": "a9ee",
+      "login": "123qwe",
+      "email": "123123",
+      "phone": "213",
+      "password": "123123",
+      "username": "213",
+      "birthdate": "2024-01-20"
+    },
+    {
+      "id": "d59f",
+      "login": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "username": "",
+      "birthdate": ""
+    },
+    {
+      "id": "65ba",
+      "login": "123456",
+      "email": "12345@m.ru",
+      "phone": "998909218616",
+      "password": "12345678",
+      "username": "12345",
+      "birthdate": "2024-01-22"
+    }
+  ]
+}
